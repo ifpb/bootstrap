@@ -22,7 +22,7 @@
 * http://bootstrapzero.com/
 * http://startbootstrap.com/
 
-### PSD:
+### PSD:tada:: 
 * http://bootflat.github.io/
 * http://designmodo.github.io/Flat-UI/
 * https://github.com/designmodo/Flat-UI
@@ -30,6 +30,6 @@
 ### Editor:
 * http://bootstrapbay.com/blog/bootstrap-editors/
 
-### Gihub Pages:
+### Gihub Pages:+1::
 * https://pages.github.com/
 * https://help.github.com/articles/creating-project-pages-manually/
