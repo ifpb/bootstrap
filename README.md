@@ -28,6 +28,7 @@
 * https://github.com/designmodo/Flat-UI
 
 ### Editor:
+* http://creately.com/
 * http://bootstrapbay.com/blog/bootstrap-editors/
 
 ### Gihub Pages:+1::
